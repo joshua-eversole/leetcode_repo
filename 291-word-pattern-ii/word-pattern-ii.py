@@ -24,6 +24,7 @@ class Solution:
                 if (s_index + str_len) <= len(s) and s[s_index:s_index + str_len] == map_str:
                     if backtracking(pattern_index + 1, s_index + str_len):
                         return True
+                        
                 else:
                     return False
 
@@ -35,12 +36,10 @@ class Solution:
                     # Check if this substring is already mapped to another pattern character
                     if substring in reverse_hash:
                         continue
-
-                    # Try the map
                     hash_map[char] = substring
                     reverse_hash[substring] = char
 
-                    # Recursively try to match the rest of the pattern and s
+                    # It's recursion
                     if backtracking(pattern_index + 1, s_index + len(substring)):
                         return True
 
