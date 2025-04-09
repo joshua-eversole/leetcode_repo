@@ -10,13 +10,9 @@ class Solution:
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
-        # Shift the value to the end
-        while node.next.next:
-            node.val = node.next.val
-            node = node.next
-        
-        #now that we're at the end, do it one more time but make node.next = None
+        # Assign the value from node.next to node, erasing the original node's value
         node.val = node.next.val
-        node.next = None
 
+        # Make the next node the second node (skip the node that repeats the value)
+        node.next = node.next.next
         
