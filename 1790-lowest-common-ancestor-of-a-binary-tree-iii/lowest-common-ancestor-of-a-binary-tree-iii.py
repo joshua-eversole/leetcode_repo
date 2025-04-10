@@ -18,3 +18,6 @@ class Solution:
             if q in p_path: 
                 return q  
             q = q.parent
+
+        
+        return -1
