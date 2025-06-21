@@ -1,45 +1,45 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-
-        def addDirections(r, c):
-            return ((r+1, c), (r, c+1), (r-1, c), (r, c-1))
-
+        # We shouldn't need a visited hash, since we're tracking when we've visited it when it rots
         rows, cols = len(grid), len(grid[0])
-        fresh_count = 0
-        queue = deque()
-
-        # Initialize queue with all rotten oranges and count fresh ones
+        directions = [(0,1), (1,0), (0,-1), (-1,0)]
+        q = deque()
+        fresh_oranges_left = 0
+        # Start by finding all the rotting oranges and adding them to q
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == 2:  # Rotten orange
-                    queue.append((r, c))
-                elif grid[r][c] == 1:  # Fresh orange
-                    fresh_count += 1
+                if grid[r][c] == 2:
+                    q.append((r,c))
+                elif grid[r][c] == 1:
+                    fresh_oranges_left +=1
 
-        # If there are no fresh oranges, return 0
-        if fresh_count == 0:
+        # Since we're starting with rotting oranges in the queue, add them to fresh_oranges_left
+        #fresh_oranges_left += len(q)
+        if fresh_oranges_left == 0:
             return 0
-        minutes = 0
+        
+        rotting_timer = -1
 
-        while queue:
-            level_size = len(queue)  # The number of rotten oranges for this minute
-            new_rotten = False  # Track if we rotted at least one new orange
+        # Continually run through BFS, add fresh (soon-to-be-rotted) organges to the queue, and keep track of the time
+        while q:
+            for _ in range(len(q)):
+                row, col = q.popleft()
+                # Make the orange rot
+                # Find nearby fresh oranges to rot next turn
+                for add_r, add_c in directions:
+                    new_r, new_c = row + add_r, col + add_c
+                    # Make sure it's a valid, fresh orange and add it if it is
+                    if 0 <= new_r < rows and 0 <= new_c < cols and grid[new_r][new_c] == 1:
+                        q.append((new_r, new_c))
+                        grid[new_r][new_c] = 2
+                        fresh_oranges_left -= 1
+                        print(f"rotting [{new_r}][{new_c}]")
 
-            for _ in range(level_size):
-                r, c = queue.popleft()
-                for nr, nc in addDirections(r, c):
-                    if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == 1:
-                        grid[nr][nc] = 2  # Mark orange as rotten
-                        queue.append((nr, nc))
-                        fresh_count -= 1
-                        new_rotten = True  # At least one new orange rotted
+            # If we've finished the turn, add one to the timer and reset the rotted_this_turn counter
+            rotting_timer += 1
+        
+        if fresh_oranges_left != 0:
+            return -1
+        
+        return rotting_timer
 
-            # Increase minutes only if at least one orange was rotted in this round
-            if new_rotten:
-                minutes += 1
-
-        # If there are still fresh oranges left, return -1
-        return minutes if fresh_count == 0 else -1
