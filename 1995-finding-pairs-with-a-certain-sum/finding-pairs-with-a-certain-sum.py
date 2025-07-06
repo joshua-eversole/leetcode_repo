@@ -1,12 +1,14 @@
 class FindSumPairs:
 
     def __init__(self, nums1: List[int], nums2: List[int]):
+        # Make n1 and n2 callable, and also create a counter for nums2 (the bigger of the two)
         self.nums1 = nums1
         self.nums2 = nums2
         self.cnt = Counter(nums2)
         
 
     def add(self, index: int, val: int) -> None:
+        # 
         n2, cnt = self.nums2, self.cnt
         cnt[n2[index]] -= 1
         n2[index] += val
