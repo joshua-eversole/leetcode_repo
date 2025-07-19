@@ -12,7 +12,7 @@ class Solution:
             last_slash = 0
             for i, char in enumerate(directory):
                 if char == '/':
-                    # If it exists in the set, then 
+                    # If it exists in the set, then pop it and move on to the next directory 
                     if directory[:i] in folder_set:
                         result.pop()
                         break
