@@ -8,6 +8,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -45,4 +46,16 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
