@@ -9,6 +9,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
 |  |
 | ------- |
@@ -54,8 +55,13 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
