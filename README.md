@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
@@ -54,6 +56,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
