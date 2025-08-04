@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
@@ -20,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 ## Counting
@@ -44,6 +46,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 ## Stack
 |  |
