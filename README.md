@@ -31,12 +31,14 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
