@@ -1,37 +1,30 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        # Step 1: Sort the array and init variables
+        # Step 0: Variable init
         nums.sort()
-        seen = set()
+        result = []
         n = len(nums)
-        i, j, k = 0, 1, 2
-
-        # Step 2: Go through each i value (to n-2)
-        while i < (n-2):
-            # Check for duplicate i's
-            if i > 0 and nums[i] == nums[i-1]:
-                i += 1
+        # Step 1: Run through and get the i value
+        for one in range(n):
+            # Move one up to skip any duplicates
+            if one > 0 and nums[one] == nums[one - 1]:
                 continue
-            two_sum = nums[i] * -1
-            # Step 3: Do a 2-pointer search for j and k
-            j, k = i + 1, n - 1
-            while j < k:
-                if nums[j] + nums[k] == two_sum and (nums[i], nums[j], nums[k]) not in seen:
-                    seen.add((nums[i], nums[j], nums[k]))
-                    # Move j and k so we don't get this anymore
-                    j += 1
-                    k -= 1
-                elif  nums[j] + nums[k] < two_sum:
-                    j += 1
-                    while j < k and nums[j] == nums[j - 1]:
-                        j += 1
+            two, three = one + 1, n - 1
+            while two < three:
+                three_sum = nums[one] + nums[two] + nums[three]
+                # if they don't add up to 0, adjust two and three accordingly
+                if three_sum > 0:
+                    three -= 1
+                elif three_sum < 0:
+                    two += 1
+                # If they do add up to zero, add it to the result and move until you get a new value for two
                 else:
-                    k -= 1
-                    while j < k and nums[k] == nums[k + 1]:
-                        k -= 1
-            i += 1
-        return list(seen)
+                    result.append([nums[one], nums[two], nums[three]])
+                    two += 1
+                    three -= 1
+                    while two < three and nums[two] == nums[two - 1]:
+                        two += 1
 
-
+        return result 
 
         
