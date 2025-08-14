@@ -36,6 +36,7 @@
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
 |  |
