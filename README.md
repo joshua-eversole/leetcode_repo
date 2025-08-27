@@ -14,6 +14,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
 |  |
@@ -47,10 +48,12 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joshua-eversole/leetcode_repo/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +102,5 @@
 | ------- |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
