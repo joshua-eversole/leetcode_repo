@@ -13,6 +13,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/joshua-eversole/leetcode_repo/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -109,4 +111,16 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/joshua-eversole/leetcode_repo/tree/master/1917-maximum-average-pass-ratio) |
+## Math
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Sorting
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
