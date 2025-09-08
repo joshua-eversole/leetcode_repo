@@ -114,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joshua-eversole/leetcode_repo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3830-find-closest-person](https://github.com/joshua-eversole/leetcode_repo/tree/master/3830-find-closest-person) |
 ## Geometry
