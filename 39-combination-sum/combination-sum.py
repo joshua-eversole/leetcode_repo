@@ -1,25 +1,22 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        # this should be dynamic programming, think about the tree structure and remember it can be used an unlimited number of times (use memoization)
-        memo = {}
-        results = []
+        res = []
         candidates.sort()
 
-        def dp(i, amt, path):
-            # Base case
-            if amt > target:
+        def dp(i, amount, path):
+            # Base case: we've passed the target
+            if amount > target:
                 return
-            elif amt == target:
-                path.sort()
-                results.append(list(path))
-            else:
-                for j, cand in enumerate(candidates):
-                    if j < i:
-                        continue
-                    path.append(cand)
-                    dp(j, amt + cand, path)
-                    path.pop()
-
-    
+            # Base case: we reached the target
+            elif amount == target:
+                res.append(path)
+                return
+            # Recursive case: run through each (remaining) candidate
+            for cand_index in range(i, len(candidates)):
+                cand = candidates[cand_index]
+                dp(cand_index, amount + cand, path + [cand])  
+        
         dp(0, 0, [])
-        return results
+        return res
+
+
