@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -22,6 +23,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joshua-eversole/leetcode_repo/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
