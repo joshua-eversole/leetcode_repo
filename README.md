@@ -48,6 +48,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | ------- |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joshua-eversole/leetcode_repo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/joshua-eversole/leetcode_repo/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
