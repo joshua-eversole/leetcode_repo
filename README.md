@@ -34,6 +34,7 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/joshua-eversole/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Counting
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/joshua-eversole/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/2346-largest-3-same-digit-number-in-string) |
