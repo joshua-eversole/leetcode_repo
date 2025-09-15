@@ -10,6 +10,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -104,6 +105,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3791-fruits-into-baskets-iii) |
 ## Segment Tree
 |  |
