@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
+| [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/joshua-eversole/leetcode_repo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
+| [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joshua-eversole/leetcode_repo/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -114,6 +116,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
