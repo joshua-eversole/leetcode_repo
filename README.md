@@ -39,6 +39,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/joshua-eversole/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/joshua-eversole/leetcode_repo/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
