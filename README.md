@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/joshua-eversole/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
+| [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/joshua-eversole/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -132,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joshua-eversole/leetcode_repo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
