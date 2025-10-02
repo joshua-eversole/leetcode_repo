@@ -137,6 +137,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joshua-eversole/leetcode_repo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3336-water-bottles-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/joshua-eversole/leetcode_repo/tree/master/3830-find-closest-person) |
 ## Geometry
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
