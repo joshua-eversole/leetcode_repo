@@ -17,6 +17,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/joshua-eversole/leetcode_repo/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/joshua-eversole/leetcode_repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/joshua-eversole/leetcode_repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -31,6 +32,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/joshua-eversole/leetcode_repo/tree/master/1917-maximum-average-pass-ratio) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/joshua-eversole/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
 ## Counting
 |  |
@@ -136,6 +139,7 @@
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joshua-eversole/leetcode_repo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
