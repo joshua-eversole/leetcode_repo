@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/joshua-eversole/leetcode_repo/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/joshua-eversole/leetcode_repo/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joshua-eversole/leetcode_repo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
