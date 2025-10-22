@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joshua-eversole/leetcode_repo/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joshua-eversole/leetcode_repo/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/joshua-eversole/leetcode_repo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joshua-eversole/leetcode_repo/tree/master/1227-number-of-equivalent-domino-pairs) |
