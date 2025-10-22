@@ -20,6 +20,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3791-fruits-into-baskets-iii) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/joshua-eversole/leetcode_repo/tree/master/1813-maximum-erasure-value) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3791-fruits-into-baskets-iii) |
 ## Segment Tree
 |  |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -168,4 +172,8 @@
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3336-water-bottles-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 <!---LeetCode Topics End-->
