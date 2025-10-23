@@ -62,6 +62,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/joshua-eversole/leetcode_repo/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/joshua-eversole/leetcode_repo/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
@@ -176,8 +178,17 @@
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/joshua-eversole/leetcode_repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
