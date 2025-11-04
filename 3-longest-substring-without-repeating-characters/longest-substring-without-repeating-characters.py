@@ -1,21 +1,19 @@
 class Solution:
+    # First thoughts, sliding window, continue to move down and remove when needed
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if not s:
-            return 0
         l = 0
         chars = set()
-        max_substring = 1
-        for r, char in enumerate(s):
+        max_len = 0
+
+        for r in range(len(s)):
+            char = s[r]
             while char in chars:
                 chars.remove(s[l])
                 l += 1
-            chars.add(char)
-            if l == r:
-                continue
-            max_substring = max(max_substring, r - l + 1)
+            chars.add(s[r])
+            max_len = max(max_len, r - l + 1)
         
-        return max_substring
-            
+        return max_len
 
 
         
