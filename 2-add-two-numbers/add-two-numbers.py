@@ -4,24 +4,29 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    # The intuition is to take each number (and the carry if it exists), add it up, then put it in a new listnode
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0)
-        current = dummy
         carry = 0
-
+        result = ListNode()
+        pointer = result
         while l1 or l2 or carry:
-            # get vals
-            val1 = l1.val if l1 else 0
-            val2 = l2.val if l2 else 0
-            # do the math to add the next value to the listnode
-            total = val1 + val2 + carry
-            carry = total // 10
-            current.next = ListNode(total % 10)
-            current = current.next
-            # move l1 and l2 if they can move
-            l1 = l1.next if l1 else None
-            l2 = l2.next if l2 else None
-
-        return dummy.next
-
-                
+            # get the two values
+            n1 = 0 if not l1 else l1.val
+            n2 = 0 if not l2 else l2.val
+            # Calculate the digit to be added
+            digit = n1 + n2 + carry
+            if digit >= 10:
+                carry = 1
+                digit = digit % 10
+            else:
+                carry = 0
+            # Add the digit, then move forward the linked lists
+            pointer.next = ListNode(digit)
+            pointer = pointer.next
+            if l1: l1 = l1.next
+            if l2: l2 = l2.next
+        
+        return result.next
+            
+            
+        
