@@ -1,26 +1,27 @@
 class Solution:
-    # First thoughts: for each group of the same colors, take the one with the highest time to remove, and get rid of everything else
     def minCost(self, colors: str, neededTime: List[int]) -> int:
+        #single run, get a list of all the duplicates in a row and keep the one that takes the longest to remove
         i = 0
-        min_time = 0
-        color_list = list(colors)
-        orig_balloon_cnt = len(color_list)
-        while i < orig_balloon_cnt - 1:
-            dupes = 0   
-            # get a count of all the dupes
-            while i < len(colors) - 1 and color_list[i] == color_list[i+1]:
+        colorful_time = 0
+        n = len(neededTime)
+        while i < n:
+            # skip forward until we reach the end or find a dupe
+            while i < (n-1) and colors[i] != colors[i+1]:
+                print(f"colors are {colors[i]} and {colors[i+1]}")
                 i += 1
-                dupes += 1
-            # If we have dupes, add all but the biggest one
-            if dupes != 0:
-                largest_time = 0
-                for time in neededTime[i-dupes:i+1]:
-                    largest_time = max(largest_time, time)
-                    min_time += time
-                min_time -= largest_time
+            # if we've reached the end, return the current colorful_time
+            if i >= n-1:
+                return colorful_time
+            #otherwise, we've reached a dupe. continue going until it's not a dupe, keeping track of the total sum and maxvalue
+            dupe_sum = neededTime[i]
+            dupe_max = neededTime[i]
+            while i < (n-1) and colors[i] == colors[i+1]:
+                dupe_sum += neededTime[i+1]
+                dupe_max = max(dupe_max, neededTime[i+1])
+                i += 1
+            print(f"dupe sum is {dupe_sum}, and dupe max is {dupe_max}")
+            # now add the total dupe time (minus the one that takes the longest)
+            colorful_time += (dupe_sum - dupe_max)
             i += 1
-        return min_time
-            
-            
-
-        
+        # if we've exited the loop, we've finished cutting
+        return colorful_time
