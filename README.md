@@ -26,6 +26,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/joshua-eversole/leetcode_repo/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/joshua-eversole/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/joshua-eversole/leetcode_repo/tree/master/3791-fruits-into-baskets-iii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/joshua-eversole/leetcode_repo/tree/master/1917-maximum-average-pass-ratio) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joshua-eversole/leetcode_repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/joshua-eversole/leetcode_repo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joshua-eversole/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3678-design-task-manager](https://github.com/joshua-eversole/leetcode_repo/tree/master/3678-design-task-manager) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,4 +205,5 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
