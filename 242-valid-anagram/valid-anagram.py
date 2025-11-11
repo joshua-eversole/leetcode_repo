@@ -1,12 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_hash, t_hash = {}, {}
-        for char in s:
-            s_hash[char] = s_hash.get(char, 0) + 1
+        if len(s) != len(t): return False
+        s_letters, t_letters = [0]*26, [0]*26
+        orda = ord('a')
+        for i in range(len(s)):
+            s_letters[ord(s[i]) - orda] += 1
+            t_letters[ord(t[i]) - orda] += 1
         
-        for char in t:
-            t_hash[char] = t_hash.get(char, 0) + 1
+        for i in range(26):
+            if s_letters[i] != t_letters[i]:
+                return False
         
-        return s_hash == t_hash
-
-        
+        return True
+            
