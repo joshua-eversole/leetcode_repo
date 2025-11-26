@@ -97,6 +97,7 @@
 ## Stack
 |  |
 | ------- |
+| [0364-nested-list-weight-sum-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0364-nested-list-weight-sum-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/joshua-eversole/leetcode_repo/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -182,6 +183,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0364-nested-list-weight-sum-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0364-nested-list-weight-sum-ii) |
 | [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 ## Design
 |  |
@@ -209,4 +211,8 @@
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joshua-eversole/leetcode_repo/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Depth-First Search
+|  |
+| ------- |
+| [0364-nested-list-weight-sum-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0364-nested-list-weight-sum-ii) |
 <!---LeetCode Topics End-->
