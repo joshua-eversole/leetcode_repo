@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/joshua-eversole/leetcode_repo/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
+| [0120-triangle](https://github.com/joshua-eversole/leetcode_repo/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/joshua-eversole/leetcode_repo/tree/master/0940-fruit-into-baskets) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/joshua-eversole/leetcode_repo/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/joshua-eversole/leetcode_repo/tree/master/0045-jump-game-ii) |
+| [0120-triangle](https://github.com/joshua-eversole/leetcode_repo/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/joshua-eversole/leetcode_repo/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/joshua-eversole/leetcode_repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/joshua-eversole/leetcode_repo/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
